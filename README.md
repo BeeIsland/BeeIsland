@@ -6,7 +6,7 @@ I work best with C# and Unity, but I am also experienced with C++, Unreal, HTML,
 
 I am a graduate of The Tech Academy's Game Developer Bootcamp and I would love to join you on your project.
 
-Check out [beeisland.github.io](beeisland.github.io) to learn more about me!
+Check out [beeisland.github.io](https://beeisland.github.io) to learn more about me!
 
 <!---
 BeeIsland/BeeIsland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
